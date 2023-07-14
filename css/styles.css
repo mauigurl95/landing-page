@@ -29,3 +29,25 @@
 36px light italic #1F2937
 
  */
+
+ /* put border to 1px to get a better temporary view of containers */
+ 
+ * {
+    border: 0px solid red;
+ }
+
+header, footer {
+    background-color: #1F2937;
+    color: white;    
+}
+
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+
+ ul {
+    list-style-type: none;
+    color: white;
+ }
