@@ -36,11 +36,28 @@
     border: 0px solid red;
  }
 
-header, footer {
+
+
+header, .one, footer {
     background-color: #1F2937;
-    color: white;    
+    color: white;  
+    padding: 15px 250px;  
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header > ul {
+    display: flex;
+    margin: 0px;
+    gap: 15px;
+}
+
+footer {
+    text-align: center;
+}
 
 .quote {
     background-color: #E5E7EB;
