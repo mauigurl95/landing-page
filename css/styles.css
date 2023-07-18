@@ -110,8 +110,15 @@ button {
 img {
     max-width: 100%;
     width: 1200px;
+    box-shadow: 0 0 5px 5px #555;
 }
 
+
+.two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 .information-header {
     margin-top: 45px;
@@ -119,16 +126,20 @@ img {
     font-size: 36px; 
     font-weight: bold; 
     color: #1F2937;
+    padding-bottom: 40px;
 }
 
-.blocks {
+.blocks > ul {
     display: flex;
-    
+    gap: 50px;
 }
 
 li > img {
     max-width: 100%;
     width: 200px;
+    border: 0px solid rgb(71, 45, 165);
+    border-radius: 10px;
+    box-shadow: 0 0 10px 10px #555;
 }
 
 
