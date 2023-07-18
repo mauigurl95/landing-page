@@ -70,7 +70,7 @@ a {
 
 .one {
     display: flex;
-    gap: 75px;
+    gap: 50px;
     padding-bottom: 100px;
 }
 
@@ -109,7 +109,7 @@ button {
 
 img {
     max-width: 100%;
-    width: 950px;
+    width: 1200px;
 }
 
 
