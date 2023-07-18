@@ -193,8 +193,25 @@ footer {
 }
 
 .call-to-action {
-    margin: 15px 250px; 
+    margin: 100px 250px;
+    padding: 64px;
+    border-radius: 10px; 
+    text-align: left;
+    color: whitesmoke;
 }
+
+.bold {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.call-to-action > button {
+    float: right;
+    border: 3px solid whitesmoke;
+    padding: 7px 27px;
+    margin-right: 90px;
+}
+
 
 ul {
     list-style-type: none;
