@@ -41,8 +41,13 @@
 }
 
 .logo {
-    font-size: 24px;
-    color: #F9FAF8
+    font-size: 15px;
+    color: #F9FAF8;
+}
+
+.logo > img {
+    max-width: 50px;
+    box-shadow: 0 0 0px 0px #555;
 }
 
 header, .one, footer {
