@@ -7,6 +7,8 @@ I will be implementing HTML Foundations, CSS Foundations, & Flexbox to create an
 
 Any image credits will be listed below (creators name & contact info if available).
 
+*** Words by Chris Ferrie's childrens book 8 little planets
+
 Title: universe
 Creator: 0fjd125gk87
 Source: https://pixabay.com/photos/solar-system-sun-mercury-venus-439046/
