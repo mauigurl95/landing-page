@@ -194,7 +194,7 @@ footer {
 
 .call-to-action {
     margin: 100px 250px;
-    padding: 64px;
+    padding: 45px 100px;
     border-radius: 10px; 
     text-align: left;
     color: whitesmoke;
@@ -209,7 +209,7 @@ footer {
     float: right;
     border: 3px solid whitesmoke;
     padding: 7px 27px;
-    margin-right: 90px;
+    margin: -20px 60px;
 }
 
 footer {
